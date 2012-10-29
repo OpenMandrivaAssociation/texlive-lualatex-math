@@ -1,12 +1,12 @@
-# revision 24009
+# revision 28101
 # category Package
 # catalog-ctan /macros/luatex/latex/lualatex-math
-# catalog-date 2011-09-18 21:09:14 +0200
+# catalog-date 2012-10-26 23:09:43 +0200
 # catalog-license lppl1.3
-# catalog-version 0.3b
+# catalog-version 1.1
 Name:		texlive-lualatex-math
-Version:	0.3b
-Release:	2
+Version:	1.1
+Release:	1
 Summary:	Fixes for mathematics-related LuaLaTeX issues
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/luatex/latex/lualatex-math
