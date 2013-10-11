@@ -1,4 +1,4 @@
 sources:
-  "lualatex-math.doc.tar.xz": 552a5edbe9b96eb6ee3a1377f15f64449fcf1951
-  "lualatex-math.source.tar.xz": 6871832f08e0db25afb6bc6634a50947c2a596d7
-  "lualatex-math.tar.xz": d7b3b6e817abfb6fd1115c577c16c9855dddf4a5
+  lualatex-math.doc.tar.xz: 16b7302219e3107fef21260368df274d7264207a
+  lualatex-math.source.tar.xz: 32bd8aacdd87a144f5c831056669027dbdaea11b
+  lualatex-math.tar.xz: a8af62c04abd423a85e8a2e0a408caa43a14332f

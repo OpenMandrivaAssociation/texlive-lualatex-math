@@ -1,12 +1,12 @@
-# revision 24009
+# revision 31389
 # category Package
 # catalog-ctan /macros/luatex/latex/lualatex-math
-# catalog-date 2011-09-18 21:09:14 +0200
+# catalog-date 2013-08-08 12:48:39 +0200
 # catalog-license lppl1.3
-# catalog-version 0.3b
+# catalog-version 1.3
 Name:		texlive-lualatex-math
-Version:	0.3b
-Release:	2
+Version:	1.3
+Release:	1
 Summary:	Fixes for mathematics-related LuaLaTeX issues
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/luatex/latex/lualatex-math
@@ -40,6 +40,7 @@ Unicode mathematics typesetting.
 %files
 %{_texmfdistdir}/tex/lualatex/lualatex-math/lualatex-math.lua
 %{_texmfdistdir}/tex/lualatex/lualatex-math/lualatex-math.sty
+%doc %{_texmfdistdir}/doc/lualatex/lualatex-math/lualatex-math-de.pdf
 %doc %{_texmfdistdir}/doc/lualatex/lualatex-math/lualatex-math.pdf
 #- source
 %doc %{_texmfdistdir}/source/lualatex/lualatex-math/lualatex-math.dtx
@@ -54,17 +55,3 @@ Unicode mathematics typesetting.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.3b-2
-+ Revision: 753585
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 0.3b-1
-+ Revision: 718924
-- texlive-lualatex-math
-- texlive-lualatex-math
-- texlive-lualatex-math
-- texlive-lualatex-math
-
