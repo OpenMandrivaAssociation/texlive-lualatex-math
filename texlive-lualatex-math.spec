@@ -6,7 +6,7 @@
 # catalog-version 1.3
 Name:		texlive-lualatex-math
 Version:	1.3
-Release:	1
+Release:	2
 Summary:	Fixes for mathematics-related LuaLaTeX issues
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/luatex/latex/lualatex-math
