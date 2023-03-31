@@ -1,6 +1,6 @@
 Name:		texlive-lualatex-math
 Version:	61464
-Release:	1
+Release:	2
 Summary:	Fixes for mathematics-related LuaLaTeX issues
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/luatex/latex/lualatex-math
