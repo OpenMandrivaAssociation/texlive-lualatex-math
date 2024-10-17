@@ -3,7 +3,7 @@ Version:	61464
 Release:	2
 Summary:	Fixes for mathematics-related LuaLaTeX issues
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/luatex/latex/lualatex-math
+URL:		https://www.ctan.org/tex-archive/macros/luatex/latex/lualatex-math
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lualatex-math.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lualatex-math.doc.r%{version}.tar.xz
